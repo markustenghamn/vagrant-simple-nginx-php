@@ -1,6 +1,6 @@
 # vagrant-simple-nginx-php
 
-A very simple and basic PHP and nginx Vagrant box. It has only PHP 5 and nginx.
+A very simple and basic PHP and nginx Vagrant box. It has only PHP 7.2 and nginx.
 It's all configured using basic shell scripts. Nice and simple!
 
 ## Getting started

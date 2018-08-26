@@ -6,7 +6,7 @@ VAGRANTFILE_API_VERSION = "2"
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   # Every Vagrant virtual environment requires a box to build off of.
-  config.vm.box = "phusion/ubuntu-14.04-amd64"
+  config.vm.box = "ubuntu/bionic64"
 
   # define the hostname
   config.vm.hostname = 'vagrantsimplenginxphp'
